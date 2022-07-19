@@ -1,0 +1,107 @@
+html {
+    background-color: rgb(66, 65, 65);
+}
+
+#otherpage {
+    background-color: grey;
+    border: none;
+    border-radius: 8px;
+    float: right;
+}
+
+#otherpage:hover{
+    background-color: grey;
+}
+
+#op:link {
+    color: white;
+    text-decoration: none;
+}
+
+#op:visited {
+    color: white;
+}
+
+#op:hover {
+    color: white;
+    text-decoration: none;
+}
+
+#searchbar {
+    border-radius: 5px;
+    position: fixed;
+    top: 50%;
+    left: 43%;
+}
+
+#searchbutton {
+    position: fixed;
+    top: 55%;
+    left: 45.5%;
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#lucky {
+    position: fixed;
+    top: 60%;
+    left: 45%;
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#image {
+    position: fixed;
+    top: 30%;
+    left: 40%;
+}
+
+
+
+
+.input {
+    margin: 20px;
+}
+
+#title {
+    margin: 20px;
+    color: white;
+}
+
+#lable {
+    color: white;
+}
+
+#text {
+    background-color: rgb(66, 65, 65);
+    border-color: gray;
+    color: white;
+    border-radius: 2px;
+    position: fixed;
+    left: 15%;
+}
+#text:hover {
+    background-color: rgb(66, 65, 65);
+    border-color: rgb(108, 108, 221);
+}
+
+#avbutton {
+    background-color: rgb(55, 153, 224);
+    border-color: gray;
+    border-radius: 2px;
+    color: white;
+    position: fixed;
+    left: 19%;
+}
+
+h2 {
+    color: white;
+}
+h3 {
+    margin: 20px;
+    color: rgb(220, 137, 137);
+}
